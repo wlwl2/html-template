@@ -1,7 +1,7 @@
 # html-template
 A simple template that can be used to create websites.
 
-Consists of only 3 files:
+Consists of 3 important files:
 
 index.html
 
