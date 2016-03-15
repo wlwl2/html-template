@@ -1,4 +1,4 @@
-# html-template
+# simple-web-template
 A simple template that can be used to create websites.
 
 Consists of 3 important files:
