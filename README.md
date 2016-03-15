@@ -1,10 +1,10 @@
 # simple-web-template
 A simple template that can be used to create websites.
 
-Consists of 3 important files:
+###Consists of 3 important files:
 
-index.html
+* **index.html**
 
-style.css
+* **style.css**
 
-script.js
+* **script.js**
