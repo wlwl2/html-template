@@ -1,5 +1,5 @@
 # simple-web-template
-___
+
 A simple template that can be used to create websites.
 
 ___
